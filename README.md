@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Drupalio's github stats](https://github-readme-stats.vercel.app/api?username=drupalio&theme=dark&show_icons=true)
+
+[![Drupalio's github stats](https://github-readme-stats.vercel.app/api?username=drupalio&count_private=true&show_icons=true&theme=gruvbox)](https://lagmental.net/pages/notme.html)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drupalio&theme=gruvbox&layout=compact)](https://lagmental.net/pages/notme.html)
