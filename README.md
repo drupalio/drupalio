@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Drupalio's github stats](https://github-readme-stats.vercel.app/api?username=drupalio&count_private=true&show_icons=true&theme=vue)](https://lagmental.net/pages/notme.html)
+[![Drupalio's github stats](https://github-readme-stats.vercel.app/api?username=drupalio&count_private=true&show_icons=true&theme=vue)](https://drupalio.com)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drupalio&theme=vue&layout=compact)](https://lagmental.net/pages/notme.html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drupalio&theme=vue&layout=compact)](https://drupalio.com)
